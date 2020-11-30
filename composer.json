@@ -1,0 +1,14 @@
+{
+    "name": "alayonx4/sistemaescolarv4",
+    "description": "sistemaescolarv3",
+    "authors": [
+        {
+            "name": "alayonx4",
+            "email": "alayonrodriguez345@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13"
+    }
+}
