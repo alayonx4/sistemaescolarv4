@@ -1,0 +1,11 @@
+{
+  "name": "sistemaescolarv4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alayonx4",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
